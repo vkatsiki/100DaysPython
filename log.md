@@ -1,5 +1,5 @@
 # Day 1: Installing Python
-**Completion Date:** 
+**Completion Date:6/6/2019**
 
 **Learned:** 
 
