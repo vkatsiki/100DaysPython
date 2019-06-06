@@ -4,9 +4,9 @@
 **Learned:Learned the steps invloved in installing Python. Executed a simple print command using commonly used IDE's like Spyder and Jupiter notebook.**
 
 # Day 2: Printing in Python
-**Completion Date:** 
+**Completion Date:6/6/2019** 
 
-**Learned:** 
+**Learned: Basic print statements, concatinating strings, strings & integers, and order formating** 
 
 # Day 3: Operators
 **Completion Date:** 
