@@ -9,9 +9,9 @@
 **Learned: Basic print statements, concatinating strings, strings & integers, and order formating** 
 
 # Day 3: Operators
-**Completion Date:** 
+**Completion Date:6/12/2019** 
 
-**Learned:** 
+**Learned: Various operations for concatinating strings, arithmatic, and strring formating** 
 
 # Day 4: Variables & Variable Types
 **Completion Date:** 
