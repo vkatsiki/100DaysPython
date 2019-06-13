@@ -19,9 +19,9 @@
 **Learned: Declaring variables and, modifying varialbe data types** 
 
 # Day 5: String Formatting
-**Completion Date:** 
+**Completion Date: 6/13/2019** 
 
-**Learned:** 
+**Learned: formating options for stings and numerical data types** 
 
 # Day 6: Lists
 **Completion Date:** 
