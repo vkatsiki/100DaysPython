@@ -14,9 +14,9 @@
 **Learned: Various operations for concatinating strings, arithmatic, and strring formating** 
 
 # Day 4: Variables & Variable Types
-**Completion Date:** 
+**Completion Date: 6/13/2019** 
 
-**Learned:** 
+**Learned: Declaring variables and, modifying varialbe data types** 
 
 # Day 5: String Formatting
 **Completion Date:** 
