@@ -24,9 +24,9 @@
 **Learned: formating options for stings and numerical data types** 
 
 # Day 6: Lists
-**Completion Date:** 
+**Completion Date:*6/25/2019* 
 
-**Learned:** 
+**Learned:different list methodologies and formating** 
 
 # Day 7: Ranges
 **Completion Date:** 
